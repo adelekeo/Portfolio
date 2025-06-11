@@ -1,0 +1,15 @@
+/workspace/Portfolio/ch02/Vocabulary/bin/Debug/net9.0/Vocabulary
+/workspace/Portfolio/ch02/Vocabulary/bin/Debug/net9.0/Vocabulary.deps.json
+/workspace/Portfolio/ch02/Vocabulary/bin/Debug/net9.0/Vocabulary.runtimeconfig.json
+/workspace/Portfolio/ch02/Vocabulary/bin/Debug/net9.0/Vocabulary.dll
+/workspace/Portfolio/ch02/Vocabulary/bin/Debug/net9.0/Vocabulary.pdb
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/Vocabulary.AssemblyInfoInputs.cache
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/Vocabulary.AssemblyInfo.cs
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/Vocabulary.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/Vocabulary.sourcelink.json
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/Vocabulary.dll
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/refint/Vocabulary.dll
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/Vocabulary.pdb
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/Vocabulary.genruntimeconfig.cache
+/workspace/Portfolio/ch02/Vocabulary/obj/Debug/net9.0/ref/Vocabulary.dll

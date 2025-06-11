@@ -1,0 +1,15 @@
+/workspace/Portfolio/ch02/Numbers/bin/Debug/net9.0/Numbers
+/workspace/Portfolio/ch02/Numbers/bin/Debug/net9.0/Numbers.deps.json
+/workspace/Portfolio/ch02/Numbers/bin/Debug/net9.0/Numbers.runtimeconfig.json
+/workspace/Portfolio/ch02/Numbers/bin/Debug/net9.0/Numbers.dll
+/workspace/Portfolio/ch02/Numbers/bin/Debug/net9.0/Numbers.pdb
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfoInputs.cache
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/Numbers.AssemblyInfo.cs
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/Numbers.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/Numbers.sourcelink.json
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/Numbers.dll
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/refint/Numbers.dll
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/Numbers.pdb
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/Numbers.genruntimeconfig.cache
+/workspace/Portfolio/ch02/Numbers/obj/Debug/net9.0/ref/Numbers.dll
