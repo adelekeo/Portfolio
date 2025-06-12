@@ -1,0 +1,15 @@
+/workspace/Portfolio/ch03/Operators/bin/Debug/net9.0/Operators
+/workspace/Portfolio/ch03/Operators/bin/Debug/net9.0/Operators.deps.json
+/workspace/Portfolio/ch03/Operators/bin/Debug/net9.0/Operators.runtimeconfig.json
+/workspace/Portfolio/ch03/Operators/bin/Debug/net9.0/Operators.dll
+/workspace/Portfolio/ch03/Operators/bin/Debug/net9.0/Operators.pdb
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/Operators.AssemblyInfoInputs.cache
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/Operators.AssemblyInfo.cs
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/Operators.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/Operators.sourcelink.json
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/Operators.dll
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/refint/Operators.dll
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/Operators.pdb
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/Operators.genruntimeconfig.cache
+/workspace/Portfolio/ch03/Operators/obj/Debug/net9.0/ref/Operators.dll
