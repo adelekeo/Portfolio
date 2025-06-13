@@ -1,0 +1,15 @@
+/workspace/Portfolio/ch03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions
+/workspace/Portfolio/ch03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.deps.json
+/workspace/Portfolio/ch03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.runtimeconfig.json
+/workspace/Portfolio/ch03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.dll
+/workspace/Portfolio/ch03/HandlingExceptions/bin/Debug/net9.0/HandlingExceptions.pdb
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.AssemblyInfoInputs.cache
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.AssemblyInfo.cs
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.sourcelink.json
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.dll
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/refint/HandlingExceptions.dll
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.pdb
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/HandlingExceptions.genruntimeconfig.cache
+/workspace/Portfolio/ch03/HandlingExceptions/obj/Debug/net9.0/ref/HandlingExceptions.dll
