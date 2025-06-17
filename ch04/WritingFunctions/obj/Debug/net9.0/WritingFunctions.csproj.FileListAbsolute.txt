@@ -1,0 +1,15 @@
+/workspace/Portfolio/ch04/WritingFunctions/bin/Debug/net9.0/WritingFunctions
+/workspace/Portfolio/ch04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.deps.json
+/workspace/Portfolio/ch04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.runtimeconfig.json
+/workspace/Portfolio/ch04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.dll
+/workspace/Portfolio/ch04/WritingFunctions/bin/Debug/net9.0/WritingFunctions.pdb
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.AssemblyInfoInputs.cache
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.AssemblyInfo.cs
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.sourcelink.json
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.dll
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/refint/WritingFunctions.dll
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.pdb
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/WritingFunctions.genruntimeconfig.cache
+/workspace/Portfolio/ch04/WritingFunctions/obj/Debug/net9.0/ref/WritingFunctions.dll
