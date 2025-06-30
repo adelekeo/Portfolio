@@ -1,0 +1,12 @@
+/workspace/Portfolio/Ch05/Packt/bin/Debug/net9.0/Packt.deps.json
+/workspace/Portfolio/Ch05/Packt/bin/Debug/net9.0/Packt.dll
+/workspace/Portfolio/Ch05/Packt/bin/Debug/net9.0/Packt.pdb
+/workspace/Portfolio/Ch05/Packt/obj/Debug/net9.0/Packt.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/Ch05/Packt/obj/Debug/net9.0/Packt.AssemblyInfoInputs.cache
+/workspace/Portfolio/Ch05/Packt/obj/Debug/net9.0/Packt.AssemblyInfo.cs
+/workspace/Portfolio/Ch05/Packt/obj/Debug/net9.0/Packt.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/Ch05/Packt/obj/Debug/net9.0/Packt.sourcelink.json
+/workspace/Portfolio/Ch05/Packt/obj/Debug/net9.0/Packt.dll
+/workspace/Portfolio/Ch05/Packt/obj/Debug/net9.0/refint/Packt.dll
+/workspace/Portfolio/Ch05/Packt/obj/Debug/net9.0/Packt.pdb
+/workspace/Portfolio/Ch05/Packt/obj/Debug/net9.0/ref/Packt.dll
