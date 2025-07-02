@@ -1,0 +1,12 @@
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/bin/Debug/net9.0/PackLib.deps.json
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/bin/Debug/net9.0/PackLib.dll
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/bin/Debug/net9.0/PackLib.pdb
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/obj/Debug/net9.0/PackLib.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/obj/Debug/net9.0/PackLib.AssemblyInfoInputs.cache
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/obj/Debug/net9.0/PackLib.AssemblyInfo.cs
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/obj/Debug/net9.0/PackLib.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/obj/Debug/net9.0/PackLib.sourcelink.json
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/obj/Debug/net9.0/PackLib.dll
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/obj/Debug/net9.0/refint/PackLib.dll
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/obj/Debug/net9.0/PackLib.pdb
+/workspace/Portfolio/Ch06/PacktLibrary/PackLib/obj/Debug/net9.0/ref/PackLib.dll
