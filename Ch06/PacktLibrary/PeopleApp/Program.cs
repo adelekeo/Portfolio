@@ -73,7 +73,7 @@ int key = 3; // Look up the value that has 2 as its key.
 WriteLine(format: "Key {0} has value: {1}",  arg0: key,  arg1: lookupObject[key]);
 
 #endregion non-generic types
-
+/*
 #region Events
 // Assign the method to the Shout delegate.
 harry.Shout += Harry_Shout;
@@ -83,3 +83,18 @@ harry.Poke();
 harry.Poke();
 harry.Poke();
 #endregion Events
+*/
+
+Person?[] people =
+ {
+   null,
+   new() { Name = "Simon"},
+   new() { Name = "Jenny"},
+   new() { Name ="Adam"},
+   new() { Name =  null},
+   new() { Name = "Richard"}
+ };
+
+OutputPeopleNames(people, "Initial list of people:");
+Array.Sort(people);
+OutputPeopleNames(people,  "After sorting using Person's IComparable implementation:");
