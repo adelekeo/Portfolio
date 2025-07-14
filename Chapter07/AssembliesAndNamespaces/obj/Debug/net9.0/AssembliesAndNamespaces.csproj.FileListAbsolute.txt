@@ -1,0 +1,15 @@
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/bin/Debug/net9.0/AssembliesAndNamespaces
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/bin/Debug/net9.0/AssembliesAndNamespaces.deps.json
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/bin/Debug/net9.0/AssembliesAndNamespaces.runtimeconfig.json
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/bin/Debug/net9.0/AssembliesAndNamespaces.dll
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/bin/Debug/net9.0/AssembliesAndNamespaces.pdb
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.AssemblyInfoInputs.cache
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.AssemblyInfo.cs
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.sourcelink.json
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.dll
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/refint/AssembliesAndNamespaces.dll
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.pdb
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.genruntimeconfig.cache
+/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/ref/AssembliesAndNamespaces.dll
