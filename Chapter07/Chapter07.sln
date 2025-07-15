@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssembliesAndNamespaces", "AssembliesAndNamespaces\AssembliesAndNamespaces.csproj", "{C5683D05-7983-4133-B876-5D76B375C9C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{AAED8315-025D-407A-9CA6-9B233B3C0E5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C5683D05-7983-4133-B876-5D76B375C9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5683D05-7983-4133-B876-5D76B375C9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5683D05-7983-4133-B876-5D76B375C9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAED8315-025D-407A-9CA6-9B233B3C0E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAED8315-025D-407A-9CA6-9B233B3C0E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAED8315-025D-407A-9CA6-9B233B3C0E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAED8315-025D-407A-9CA6-9B233B3C0E5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

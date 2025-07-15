@@ -1,0 +1,11 @@
+/workspace/Portfolio/Chapter07/SharedLibrary/bin/Debug/netstandard2.0/SharedLibrary.deps.json
+/workspace/Portfolio/Chapter07/SharedLibrary/bin/Debug/netstandard2.0/SharedLibrary.dll
+/workspace/Portfolio/Chapter07/SharedLibrary/bin/Debug/netstandard2.0/SharedLibrary.pdb
+/workspace/Portfolio/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.csproj.AssemblyReference.cache
+/workspace/Portfolio/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.AssemblyInfoInputs.cache
+/workspace/Portfolio/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.AssemblyInfo.cs
+/workspace/Portfolio/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.sourcelink.json
+/workspace/Portfolio/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.dll
+/workspace/Portfolio/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.pdb
