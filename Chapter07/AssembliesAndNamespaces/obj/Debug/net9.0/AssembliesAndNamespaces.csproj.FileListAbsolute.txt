@@ -7,7 +7,6 @@
 /workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.AssemblyInfoInputs.cache
 /workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.AssemblyInfo.cs
 /workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
-/workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.sourcelink.json
 /workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.dll
 /workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/refint/AssembliesAndNamespaces.dll
 /workspace/Portfolio/Chapter07/AssembliesAndNamespaces/obj/Debug/net9.0/AssembliesAndNamespaces.pdb

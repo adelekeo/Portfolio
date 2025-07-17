@@ -7,7 +7,6 @@
 /workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.AssemblyInfoInputs.cache
 /workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.AssemblyInfo.cs
 /workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.csproj.CoreCompileInputs.cache
-/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.sourcelink.json
 /workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.dll
 /workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/refint/DotNetEverywhere.dll
 /workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.pdb

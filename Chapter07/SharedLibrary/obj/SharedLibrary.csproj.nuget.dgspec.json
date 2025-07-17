@@ -5,10 +5,10 @@
   },
   "projects": {
     "/workspace/Portfolio/Chapter07/SharedLibrary/SharedLibrary.csproj": {
-      "version": "1.0.0",
+      "version": "9.0.0",
       "restore": {
         "projectUniqueName": "/workspace/Portfolio/Chapter07/SharedLibrary/SharedLibrary.csproj",
-        "projectName": "SharedLibrary",
+        "projectName": "Packt.CSdotnet.SharedLibrary",
         "projectPath": "/workspace/Portfolio/Chapter07/SharedLibrary/SharedLibrary.csproj",
         "packagesPath": "/home/gitpod/.nuget/packages/",
         "outputPath": "/workspace/Portfolio/Chapter07/SharedLibrary/obj/",

@@ -7,7 +7,6 @@
 /workspace/Portfolio/Chapter07/AotConsole/obj/Debug/net9.0/AotConsole.AssemblyInfoInputs.cache
 /workspace/Portfolio/Chapter07/AotConsole/obj/Debug/net9.0/AotConsole.AssemblyInfo.cs
 /workspace/Portfolio/Chapter07/AotConsole/obj/Debug/net9.0/AotConsole.csproj.CoreCompileInputs.cache
-/workspace/Portfolio/Chapter07/AotConsole/obj/Debug/net9.0/AotConsole.sourcelink.json
 /workspace/Portfolio/Chapter07/AotConsole/obj/Debug/net9.0/AotConsole.dll
 /workspace/Portfolio/Chapter07/AotConsole/obj/Debug/net9.0/refint/AotConsole.dll
 /workspace/Portfolio/Chapter07/AotConsole/obj/Debug/net9.0/AotConsole.pdb
