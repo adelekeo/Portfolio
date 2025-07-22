@@ -1,0 +1,15 @@
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/bin/Debug/net9.0/WorkingWithRegularExpressions
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/bin/Debug/net9.0/WorkingWithRegularExpressions.deps.json
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/bin/Debug/net9.0/WorkingWithRegularExpressions.runtimeconfig.json
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/bin/Debug/net9.0/WorkingWithRegularExpressions.dll
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/bin/Debug/net9.0/WorkingWithRegularExpressions.pdb
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/WorkingWithRegularExpressions.AssemblyInfo.cs
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/WorkingWithRegularExpressions.sourcelink.json
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/WorkingWithRegularExpressions.dll
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/refint/WorkingWithRegularExpressions.dll
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/WorkingWithRegularExpressions.pdb
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/WorkingWithRegularExpressions.genruntimeconfig.cache
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net9.0/ref/WorkingWithRegularExpressions.dll
