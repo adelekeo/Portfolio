@@ -1,0 +1,5 @@
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.AssemblyInfo.cs
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/Chapter08/WorkingWithRegularExpressions/obj/Debug/net8.0/WorkingWithRegularExpressions.sourcelink.json

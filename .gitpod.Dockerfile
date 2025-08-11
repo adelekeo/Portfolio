@@ -1,2 +1,3 @@
-FROM mcr.microsoft.com/dotnet/sdk:9.0-preview
+FROM mcr.microsoft.com/dotnet/sdk:8.0.9
+WORKDIR /app
 
