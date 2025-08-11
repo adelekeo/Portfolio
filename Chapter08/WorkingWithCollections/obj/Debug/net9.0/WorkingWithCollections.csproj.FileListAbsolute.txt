@@ -1,0 +1,15 @@
+/workspace/Portfolio/Chapter08/WorkingWithCollections/bin/Debug/net9.0/WorkingWithCollections
+/workspace/Portfolio/Chapter08/WorkingWithCollections/bin/Debug/net9.0/WorkingWithCollections.deps.json
+/workspace/Portfolio/Chapter08/WorkingWithCollections/bin/Debug/net9.0/WorkingWithCollections.runtimeconfig.json
+/workspace/Portfolio/Chapter08/WorkingWithCollections/bin/Debug/net9.0/WorkingWithCollections.dll
+/workspace/Portfolio/Chapter08/WorkingWithCollections/bin/Debug/net9.0/WorkingWithCollections.pdb
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/WorkingWithCollections.AssemblyInfoInputs.cache
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/WorkingWithCollections.AssemblyInfo.cs
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/WorkingWithCollections.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/WorkingWithCollections.sourcelink.json
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/WorkingWithCollections.dll
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/refint/WorkingWithCollections.dll
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/WorkingWithCollections.pdb
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/WorkingWithCollections.genruntimeconfig.cache
+/workspace/Portfolio/Chapter08/WorkingWithCollections/obj/Debug/net9.0/ref/WorkingWithCollections.dll
