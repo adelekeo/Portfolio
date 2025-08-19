@@ -1,6 +1,8 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using StringDictionary = System.Collections.Generic.Dictionary<string, string>;
-
+using System.Collections.Immutable;
+using System.Collections.Frozen;
 
 // Simple syntax for creating a list and adding three items.
 List<string> cities = new();
@@ -73,4 +75,68 @@ foreach(string name in new[]{"Adam", "Barry","Charlie", "Delee"})
 }
 
 WriteLine($"names set:  {string.Join(',', names)}.");
+WriteLine();
+WriteLine("Working with Queues");
+WriteLine();
+Queue<string> Coffee = new();
+Coffee.Enqueue("Salted Caramel");
+Coffee.Enqueue("Blueberry Bomb");
+Coffee.Enqueue("Cinna Bomb");
+Coffee.Enqueue("Vanilla Bomb");
+Coffee.Enqueue("Hazelnut");
+OutputCollection("Initial queue from front to back" , Coffee);
+// Server handles next person in queue.
+string served = Coffee.Dequeue();
+WriteLine($"Served: {served}.");
+// Server handles next person in queue.
+served = Coffee.Dequeue();
+WriteLine($"Served: {served}.");
+OutputCollection("Current queue from front to back", Coffee);
+WriteLine($"{Coffee.Peek()} is next in line");
+OutputCollection("Current queue from front to back", Coffee);
+WriteLine();
+WriteLine("Working with Priority Queues");
+WriteLine();
+PriorityQueue<string, int> vaccine = new();
+// Add some people.
+// 1 = High priority people in their 70s or poor health.
+// 2 = Medium priority e.g. middle-aged.
+// 3 = Low priority e.g. teens and twenties.
+vaccine.Enqueue("Pamela", 1);
+vaccine.Enqueue("Rebecca", 3);
+vaccine.Enqueue("Juliet", 2);
+vaccine.Enqueue("Ian", 1);
+OutputPQ("Current queue for vaccination", vaccine.UnorderedItems);
+WriteLine($"{vaccine.Dequeue()} has been vaccinated.");
+WriteLine($"{vaccine.Dequeue()} has been vaccinated.");
+OutputPQ("Current queue for vaccination", vaccine.UnorderedItems);
+WriteLine($"{vaccine.Dequeue()} has been vaccinated.");
+WriteLine("Adding Mark to queue with priority 2.");
+vaccine.Enqueue("Mark", 2);
+WriteLine($"{vaccine.Peek()} will be next to be vaccinated.");
+OutputPQ("Current queue for vaccination", vaccine.UnorderedItems);
+WriteLine();
+WriteLine("Working with Dictionaries");
+WriteLine();
+
+//useDictionary(keywords);
+
+//useDictionary(keywords.AsReadOnly());
+useDictionary(keywords.ToImmutableDictionary());
+WriteLine();
+ImmutableDictionary<string, string> immutableKeywords =
+  keywords.ToImmutableDictionary();
+// Call the Add method with a return value.
+ImmutableDictionary<string, string> newDictionary =
+  immutableKeywords.Add(
+    key: Guid.NewGuid().ToString(),
+    value: Guid.NewGuid().ToString());
+OutputCollection("Immutable keywords dictionary", immutableKeywords);
+OutputCollection("New keywords dictionary", newDictionary);
+WriteLine();
+FrozenDictionary<string, string> frozenKeywords =
+  keywords.ToFrozenDictionary();
+OutputCollection("Frozen keywords dictionary", frozenKeywords);
+// Lookups are faster in a frozen dictionary.
+WriteLine($"Define long: {frozenKeywords["long"]}");
 WriteLine();

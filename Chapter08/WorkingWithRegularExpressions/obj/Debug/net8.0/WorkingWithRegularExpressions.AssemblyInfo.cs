@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkingWithRegularExpressions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bdfdc949fbfc4480452428031dc6fb866aa60e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf079aaf33a77534447f5792c84d0c4f58428bf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkingWithRegularExpressions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkingWithRegularExpressions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
