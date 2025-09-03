@@ -1,0 +1,15 @@
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.exe
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.deps.json
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.runtimeconfig.json
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.dll
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\bin\Debug\net9.0\WorkingWithRanges.pdb
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.AssemblyInfo.cs
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.sourcelink.json
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.dll
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\refint\WorkingWithRanges.dll
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.pdb
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\WorkingWithRanges.genruntimeconfig.cache
+C:\Users\oluwo\source\repos\adelekeo\Portfolio\Chapter08\WorkingWithRanges\obj\Debug\net9.0\ref\WorkingWithRanges.dll

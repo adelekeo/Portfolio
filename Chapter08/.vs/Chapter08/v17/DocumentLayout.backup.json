@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F42BA8B-69B9-4DFB-88CF-21A17B02FEBC}|WorkingWithRanges\\WorkingWithRanges.csproj|c:\\users\\oluwo\\source\\repos\\adelekeo\\portfolio\\chapter08\\workingwithranges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F42BA8B-69B9-4DFB-88CF-21A17B02FEBC}|WorkingWithRanges\\WorkingWithRanges.csproj|solutionrelative:workingwithranges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B329E0-C989-4687-A35E-8E16263B69B3}|WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj|c:\\users\\oluwo\\source\\repos\\adelekeo\\portfolio\\chapter08\\workingwithregularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B329E0-C989-4687-A35E-8E16263B69B3}|WorkingWithRegularExpressions\\WorkingWithRegularExpressions.csproj|solutionrelative:workingwithregularexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter08\\WorkingWithRanges\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithRanges\\Program.cs",
+              "ToolTip": "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter08\\WorkingWithRanges\\Program.cs*",
+              "RelativeToolTip": "WorkingWithRanges\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:27:06.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter08\\WorkingWithRegularExpressions\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithRegularExpressions\\Program.cs",
+              "ToolTip": "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter08\\WorkingWithRegularExpressions\\Program.cs",
+              "RelativeToolTip": "WorkingWithRegularExpressions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T13:43:38.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
