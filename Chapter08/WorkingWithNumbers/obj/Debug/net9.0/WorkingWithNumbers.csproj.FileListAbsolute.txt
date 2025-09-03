@@ -1,0 +1,15 @@
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/bin/Debug/net9.0/WorkingWithNumbers
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/bin/Debug/net9.0/WorkingWithNumbers.deps.json
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/bin/Debug/net9.0/WorkingWithNumbers.runtimeconfig.json
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/bin/Debug/net9.0/WorkingWithNumbers.dll
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/bin/Debug/net9.0/WorkingWithNumbers.pdb
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/WorkingWithNumbers.AssemblyInfoInputs.cache
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/WorkingWithNumbers.AssemblyInfo.cs
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/WorkingWithNumbers.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/WorkingWithNumbers.sourcelink.json
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/WorkingWithNumbers.dll
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/refint/WorkingWithNumbers.dll
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/WorkingWithNumbers.pdb
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/WorkingWithNumbers.genruntimeconfig.cache
+/workspace/Portfolio/Chapter08/WorkingWithNumbers/obj/Debug/net9.0/ref/WorkingWithNumbers.dll

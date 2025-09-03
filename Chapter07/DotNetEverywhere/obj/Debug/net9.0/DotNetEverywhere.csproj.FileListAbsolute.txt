@@ -1,0 +1,14 @@
+/workspace/Portfolio/Chapter07/DotNetEverywhere/bin/Debug/net9.0/DotNetEverywhere
+/workspace/Portfolio/Chapter07/DotNetEverywhere/bin/Debug/net9.0/DotNetEverywhere.deps.json
+/workspace/Portfolio/Chapter07/DotNetEverywhere/bin/Debug/net9.0/DotNetEverywhere.runtimeconfig.json
+/workspace/Portfolio/Chapter07/DotNetEverywhere/bin/Debug/net9.0/DotNetEverywhere.dll
+/workspace/Portfolio/Chapter07/DotNetEverywhere/bin/Debug/net9.0/DotNetEverywhere.pdb
+/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.AssemblyInfoInputs.cache
+/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.AssemblyInfo.cs
+/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.csproj.CoreCompileInputs.cache
+/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.dll
+/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/refint/DotNetEverywhere.dll
+/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.pdb
+/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/DotNetEverywhere.genruntimeconfig.cache
+/workspace/Portfolio/Chapter07/DotNetEverywhere/obj/Debug/net9.0/ref/DotNetEverywhere.dll

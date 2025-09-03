@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 
 
-public class Person
+public class Person: IComparable<Person?>
 {
     #region 
     public string? Name { get; set; }
@@ -122,6 +122,10 @@ public class Person
     // Data field related to the event
     public int AngerLevel;
 
+    public Person()
+    {
+    }
+
     //The method that will trigger the event in certain conditions
     public void Poke()
     {
@@ -134,4 +138,35 @@ public class Person
     }
     #endregion Events
 
+    public int CompareTo(Person? other)
+    {
+        int position;
+
+       if (other  is not null)
+       {
+         if ((Name is not null) && (other.Name is not null))
+         {
+                position = Name.CompareTo(other.Name);
+         }
+         else if ((Name is not null )  && (other.Name is null))
+         {
+                position = -1;
+         }
+        else
+        {
+              position = 0;
+        }
+       }
+      else if (other is null)
+      {
+            position = -1;
+      }
+      else 
+      {
+            position = 0;
+      }
+
+        return position;
+
+    }
 }

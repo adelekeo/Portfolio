@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PackLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c72cc9682f508c039cf369e99688f152c9b1c298")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e0df69115c2cfa52ddb21f8d4a751b6034f0756")]
 [assembly: System.Reflection.AssemblyProductAttribute("PackLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PackLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

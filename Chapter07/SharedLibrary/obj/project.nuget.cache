@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bX7fpZsg1PU=",
+  "success": true,
+  "projectFilePath": "/workspace/Portfolio/Chapter07/SharedLibrary/SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/gitpod/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

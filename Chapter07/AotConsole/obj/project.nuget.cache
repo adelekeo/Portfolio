@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E165M7rPZZg=",
+  "success": true,
+  "projectFilePath": "/workspace/Portfolio/Chapter07/AotConsole/AotConsole.csproj",
+  "expectedPackageFiles": [
+    "/home/gitpod/.nuget/packages/microsoft.dotnet.ilcompiler/9.0.0-preview.7.24405.7/microsoft.dotnet.ilcompiler.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.net.illink.tasks/9.0.0-preview.7.24405.7/microsoft.net.illink.tasks.9.0.0-preview.7.24405.7.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/9.0.0-preview.7.24405.7/runtime.linux-x64.microsoft.dotnet.ilcompiler.9.0.0-preview.7.24405.7.nupkg.sha512"
+  ],
+  "logs": []
+}
