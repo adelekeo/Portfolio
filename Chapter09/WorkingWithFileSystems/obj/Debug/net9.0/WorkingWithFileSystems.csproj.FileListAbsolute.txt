@@ -1,0 +1,17 @@
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\bin\Debug\net9.0\WorkingWithFileSystems.exe
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\bin\Debug\net9.0\WorkingWithFileSystems.deps.json
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\bin\Debug\net9.0\WorkingWithFileSystems.runtimeconfig.json
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\bin\Debug\net9.0\WorkingWithFileSystems.dll
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\bin\Debug\net9.0\WorkingWithFileSystems.pdb
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\bin\Debug\net9.0\Spectre.Console.dll
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\WorkingW.4DE6E30B.Up2Date
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\WorkingWithFileSystems.dll
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\refint\WorkingWithFileSystems.dll
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\WorkingWithFileSystems.pdb
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\WorkingWithFileSystems.genruntimeconfig.cache
+C:\Users\oluwo\Documents\VS2022\Chapter09\WorkingWithFileSystems\obj\Debug\net9.0\ref\WorkingWithFileSystems.dll
