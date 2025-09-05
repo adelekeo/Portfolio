@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oluwo\\Documents\\VS2022\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj": {}
+    "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oluwo\\Documents\\VS2022\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj": {
+    "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oluwo\\Documents\\VS2022\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+        "projectUniqueName": "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
         "projectName": "WorkingWithFileSystems",
-        "projectPath": "C:\\Users\\oluwo\\Documents\\VS2022\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+        "projectPath": "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
         "packagesPath": "C:\\Users\\oluwo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oluwo\\Documents\\VS2022\\Chapter09\\WorkingWithFileSystems\\obj\\",
+        "outputPath": "C:\\Users\\oluwo\\source\\repos\\adelekeo\\Portfolio\\Chapter09\\WorkingWithFileSystems\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AotConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc3b0ea2a600ef88e6cd415facc38ea5c914c480")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3024bba0dc0bea2462b4835d51e2537940e62198")]
 [assembly: System.Reflection.AssemblyProductAttribute("AotConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AotConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
