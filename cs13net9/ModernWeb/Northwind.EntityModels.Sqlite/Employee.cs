@@ -13,9 +13,11 @@ public partial class Employee
     [Key]
     public int EmployeeId { get; set; }
 
+    [Required]
     [Column(TypeName = "nvarchar (20)")]
     public string LastName { get; set; } = null!;
 
+    [Required]
     [Column(TypeName = "nvarchar (10)")]
     public string FirstName { get; set; } = null!;
 
@@ -26,10 +28,10 @@ public partial class Employee
     public string? TitleOfCourtesy { get; set; }
 
     [Column(TypeName = "datetime")]
-    public string? BirthDate { get; set; }
+    public DateTime? BirthDate { get; set; }
 
     [Column(TypeName = "datetime")]
-    public string? HireDate { get; set; }
+    public DateTime? HireDate { get; set; }
 
     [Column(TypeName = "nvarchar (60)")]
     public string? Address { get; set; }

@@ -14,6 +14,8 @@ public partial class Supplier
     public int SupplierId { get; set; }
 
     [Column(TypeName = "nvarchar (40)")]
+    [StringLength(40)]
+    [Required]
     public string CompanyName { get; set; } = null!;
 
     [Column(TypeName = "nvarchar (30)")]

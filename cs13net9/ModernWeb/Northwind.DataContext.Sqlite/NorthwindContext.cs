@@ -97,9 +97,11 @@ public partial class NorthwindContext : DbContext
         {
             entity.Property(e => e.ProductId);
             entity.Property(e => e.ReorderLevel).HasDefaultValue((short)0);
-            entity.Property(e => e.UnitPrice).HasDefaultValue(0.0);
+            entity.Property(e => e.UnitPrice).HasDefaultValue((decimal?)0);
             entity.Property(e => e.UnitsInStock).HasDefaultValue((short)0);
             entity.Property(e => e.UnitsOnOrder).HasDefaultValue((short)0);
+
+            entity.Property(product => product.UnitPrice).HasConversion<double>();
         });
 
         modelBuilder.Entity<Shipper>(entity =>
