@@ -1,0 +1,68 @@
+version: "3.9"
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: warfighter_sql
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Your_password123
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD-SHELL", "bash -lc 'echo > /dev/tcp/127.0.0.1/1433'"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+
+  missionplanner.api:
+    build:
+      context: .
+      dockerfile: MissionPlanner.Api/Dockerfile
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__SqlServer=Server=sqlserver,1433;Database=WarfighterSimDb;User ID=sa;Password=Your_password123;TrustServerCertificate=True
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+    ports:
+      - "8082:8080"
+
+  auth.api:
+    build:
+      context: .
+      dockerfile: Auth.Api/Dockerfile
+    environment:
+      - ASPNETCORE_URLS=http://+:8081
+      - Jwt__Key=dev-secret-key-change-me
+      - Jwt__Issuer=WarfighterSim
+      - Jwt__Audience=WarfighterClients
+
+  gateway.api:
+    build:
+      context: .
+      dockerfile: Gateway.Api/Dockerfile
+    ports:
+      - "8090:8090"
+    environment:
+      - ASPNETCORE_URLS=http://+:8090
+    depends_on:
+      - missionplanner.api
+      - auth.api
+
+  ui:
+    build:
+      context: .
+      dockerfile: Simulation.UI/Dockerfile
+    ports:
+      - "8091:8091"
+    environment:
+      - ASPNETCORE_URLS=http://+:8091
+    depends_on:
+      - gateway.api
+
+volumes:
+  sql_data:

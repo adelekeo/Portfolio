@@ -1,0 +1,32 @@
+﻿@page "/"
+@using System.Net.Http.Json
+@inject IHttpClientFactory HttpFactory
+
+<h2>Warfighter Simulation Dashboard</h2>
+
+<button @onclick="Load">Load Missions</button>
+
+@if (missions is null)
+{
+    <p>No data yet.</p>
+}
+else
+{
+    <ul>
+        @foreach (var m in missions)
+        {
+            <li><b>@m.Name</b> — @m.Theater (@m.StartUtc.ToLocalTime() to @m.EndUtc.ToLocalTime())</li>
+        }
+    </ul>
+}
+
+@code {
+    record Mission(int Id, string Name, string Theater, DateTime StartUtc, DateTime EndUtc, string Classification);
+    List<Mission>? missions;
+
+    async Task Load()
+    {
+        var client = HttpFactory.CreateClient("Gateway");
+        missions = await client.GetFromJsonAsync<List<Mission>>("/api/missions");
+    }
+}
