@@ -1,0 +1,30 @@
+version: '4.0'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: CommandSql
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Tokunbo77$$!
+    ports:
+      - "1433:1433"
+    networks:
+      - app-network
+
+  api:
+    build: .
+    container_name: command-dashboard-api
+    depends_on:
+      - sqlserver
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=CommandDashbrdDb;User Id=sa;Password=Tokunbo77$$!;TrustServerCertificate=True;
+    ports:
+      - "8080:8080"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

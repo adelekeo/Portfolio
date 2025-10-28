@@ -1,0 +1,6 @@
+@CommandDashboardLite.Api_HostAddress = http://localhost:5013
+
+GET {{CommandDashboardLite.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
