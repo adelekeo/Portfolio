@@ -1,0 +1,28 @@
+# azure-pipelines.yml
+trigger:
+  branches: { include: [ main ] }
+pr:
+  branches: { include: [ main ] }
+
+pool:
+  vmImage: 'windows-latest'   # or ubuntu-latest
+
+variables:
+  buildConfiguration: 'Release'
+
+steps:
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '9.x'
+- script: dotnet restore
+  displayName: Restore
+- script: dotnet build --configuration $(buildConfiguration) --no-restore
+  displayName: Build
+- script: dotnet test --configuration $(buildConfiguration) --no-build --logger trx
+  displayName: Test
+- task: PublishTestResults@2
+  inputs:
+    testResultsFormat: 'VSTest'
+    testResultsFiles: '**/*.trx'
+
