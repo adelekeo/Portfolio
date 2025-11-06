@@ -1,0 +1,54 @@
+﻿@page "/login"
+@inject HttpClient Http
+@inject Blazored.LocalStorage.ILocalStorageService Storage
+@using System.Net.Http.Json
+
+<h3>Login</h3>
+
+@if (_error != null)
+{
+    <p style="color:red">@_error</p>
+}
+
+<input @bind="username" placeholder="Username" />
+<select @bind="role">
+    <option>Operator</option>
+    <option>Admin</option>
+</select>
+<button @onclick="LoginUser">Sign In</button>
+
+@code {
+    string? username;
+    string role = "Operator";
+    string? _error;
+
+    record LoginDto(string Username, string? Role, string? Password);
+    record TokenResponse(string access_token);
+
+    public async Task LoginUser()
+    {
+        _error = null;
+        try
+        {
+            var res = await Http.PostAsJsonAsync("api/Auth/token", new LoginDto(username!, role, "ignored"));
+            if (!res.IsSuccessStatusCode)
+            {
+                _error = "Invalid login";
+                return;
+            }
+            var payload = await res.Content.ReadFromJsonAsync<TokenResponse>();
+            await Storage.SetItemAsStringAsync("jwt", payload!.access_token);
+            // simple redirect
+            var uri = new Uri(NavigationManager.Uri);
+            NavigationManager.NavigateTo("/missions", forceLoad: true);
+        }
+        catch (Exception ex)
+        {
+            _error = ex.Message;
+        }
+    }
+
+    [Microsoft.AspNetCore.Components.Inject]
+    public required NavigationManager NavigationManager { get; set; }
+}
+

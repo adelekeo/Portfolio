@@ -1,0 +1,82 @@
+﻿@page "/missions"
+@inject HttpClient Http
+@using System.Net.Http.Json
+
+<h3>Missions</h3>
+
+@if (error != null)
+{
+    <p style="color:red">@error</p>
+}
+@if (missions == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <ul>
+        @foreach (var m in missions)
+        {
+            <li>
+                <b>@m.Title</b> — @m.Status (P:@m.Priority)
+            </li>
+        }
+    </ul>
+}
+
+<h4>Create Mission (Admin/Operator)</h4>
+<input @bind="title" placeholder="Title" />
+<input @bind="desc" placeholder="Description" />
+<input type="number" @bind="priority" min="1" max="5" />
+<button @onclick="Create">Create</button>
+
+@code {
+    string? error;
+    List<Mission>? missions;
+    string title = "";
+    string desc = "";
+    int priority = 3;
+
+    record Mission(int Id, string Title, string Description, string Status, int Priority);
+    record MissionDto(string Title, string Description, int Priority);
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Load();
+    }
+
+    async Task Load()
+    {
+        try
+        {
+            missions = await Http.GetFromJsonAsync<List<Mission>>("api/Mission");
+        }
+        catch (Exception ex)
+        {
+            error = ex.Message;
+        }
+    }
+
+    async Task Create()
+    {
+        try
+        {
+            var res = await Http.PostAsJsonAsync("api/Mission", new MissionDto(title, desc, priority));
+            if (res.IsSuccessStatusCode)
+            {
+                title = desc = "";
+                priority = 3;
+                await Load();
+            }
+            else
+            {
+                error = $"Create failed: {res.StatusCode}";
+            }
+        }
+        catch (Exception ex)
+        {
+            error = ex.Message;
+        }
+    }
+}
+

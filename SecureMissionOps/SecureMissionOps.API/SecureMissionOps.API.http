@@ -1,0 +1,6 @@
+@SecureMissionOps.API_HostAddress = http://localhost:5088
+
+GET {{SecureMissionOps.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,48 @@
+﻿@page "/clients"
+@inject HttpClient Http
+
+<h3>Clients</h3>
+
+<input @bind="newName" placeholder="Client name" />
+<button @onclick="Add">Add</button>
+
+@if (clients is null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <ul>
+        @foreach (var c in clients)
+        {
+            <li>@c.name (@c.contactEmail)</li>
+        }
+    </ul>
+}
+
+@code {
+    record ClientDto(int id, string name, string? contactEmail, string? phone, string? notes);
+    List<ClientDto>? clients;
+    string newName = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        var pong = await Http.GetStringAsync("/health");
+        clients = await Http.GetFromJsonAsync<List<ClientDto>>("http://localhost:7042/api/clients");
+    }
+    
+
+    async Task Add()
+    {
+        if (string.IsNullOrWhiteSpace(newName)) return;
+        var payload = new { Name = newName, ContactEmail = (string?)null, Phone = (string?)null, Notes = (string?)null };
+        var res = await Http.PostAsJsonAsync("http://localhost:8080/api/clients", payload);
+        if (res.IsSuccessStatusCode)
+        {
+            clients = await Http.GetFromJsonAsync<List<ClientDto>>("http://localhost:8080/api/clients");
+            newName = "";
+            StateHasChanged();
+        }
+    }
+}
+

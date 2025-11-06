@@ -46,16 +46,14 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-using (var scope = app.Services.CreateScope())
-{
-    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-    db.Database.Migrate(); // applies pending migrations
-    // Seed if needed
-    // if(!db.Things.Any()) { db.Things.Add(new Thing {...}); db.SaveChanges(); }
-}
+//using (var scope = app.Services.CreateScope())
+//{
+//    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+//    db.Database.Migrate(); // applies pending migrations
+//    // Seed if needed
+//    // if(!db.Things.Any()) { db.Things.Add(new Thing {...}); db.SaveChanges(); }
+//}
 
-
-/*
 // Create DB and seed demo data on startup (for interview convenience)
 using (var scope = app.Services.CreateScope())
 {
@@ -63,7 +61,7 @@ using (var scope = app.Services.CreateScope())
     db.Database.EnsureCreated();
     SeedData.Run(db);
 }
-*/
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

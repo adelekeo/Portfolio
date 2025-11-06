@@ -1,15 +1,13 @@
-# Use the official .NET 9 SDK image for build
+﻿# Build
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
 COPY . .
-RUN dotnet restore
 RUN dotnet publish -c Release -o /app
 
-# Use a smaller runtime image for final container
-FROM mcr.microsoft.com/dotnet/aspnet:9.0
+# Runtime
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS final
 WORKDIR /app
 COPY --from=build /app .
-ENV ASPNETCORE_URLS=http://+:8080
 EXPOSE 8080
-ENTRYPOINT ["dotnet", "CommandDashboardLite.dll"]
-
+ENV ASPNETCORE_URLS=http://+:8080
+ENTRYPOINT ["dotnet", "CommandDashboardLite.Api.dll"]
